@@ -1,6 +1,6 @@
 - Hi, I’m Harshal Shah.
 - I’m currently Studying in DAIICT (Dhirubhai Ambani Institute of Information And Communication Technology).
-- I’m 3rd year B.Tech ICT Student.
+- I’m 4th year B.Tech ICT Student.
 
 
 <!---
